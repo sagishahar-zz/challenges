@@ -1,5 +1,5 @@
 
-# Hacking challenges
+# Hacking Challenges
 
 Challenges that I authored/co-authored over the years for education and training purposes.
 
