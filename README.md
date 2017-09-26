@@ -149,7 +149,32 @@ Thanks @VulnHub for kindly hosting this challenge, and thanks to
 
 ## Pipe
 
-TO DO
+<img align="left" src="https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg" width="200" height="150">
+
+```
+__________.__               
+\______   \__|_____   ____  
+ |     ___/  \____ \_/ __ \ 
+ |    |   |  |  |_> >  ___/ 
+ |____|   |__|   __/ \___  >
+             |__|        \/  ·VM· (MiNi CHaLLeNGe BuiLT FoR ZaCoN Vi)
+
++-----------------------------------------------------------------------+
+|  cReaTeD....: sagi- (@s4gi_)      |  DaTe......: 2015-10-02           |
+|  oS.........: Linux               |  oBJecTiVe.: Get /root/flag.txt   |
+|                                   |  GReeTZ....: @zac0n               |
+|                                   |  TeSTeRs...: @leonjza             |
+|                                   |              @barrebas            |
++-----------------------------------------------------------------------+
+```
+### Download
+
+* [Download Link](https://www.vulnhub.com/entry/devrandom-pipe,124/#download)
+* [Download Link](https://drive.google.com/open?id=0B6EDpYQYL72ra1pKYThDTTMtUGc)
+
+### Solution
+
+[Watch Solution](https://youtu.be/tx3JvuTEqIc)
 
 ## Sleepy
 
