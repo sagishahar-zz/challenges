@@ -178,8 +178,69 @@ __________.__
 
 ## Sleepy
 
-TO DO
+<img align="left" src="https://vignette.wikia.nocookie.net/disney/images/a/a4/Sleepy1.png" width="230" height="150">
+
+```
+  _________.__                              
+ /   _____/|  |   ____   ____ ______ ___.__.
+ \_____  \ |  | _/ __ \_/ __ \\____ <   |  |
+ /        \|  |_\  ___/\  ___/|  |_> >___  |
+/_______  /|____/\___  >\___  >   __// ____| ·VM·
+        \/           \/     \/|__|   \/
+
++-----------------------------------------------------------------------+
+|  cReaTeD....: sagi- (@s4gi_)      |  DaTe......: 2015-10-02           |
+|  oS.........: Linux               |  oBJecTiVe.: Get /root/flag.txt   |
+|                                   |  GReeTZ....: @nanomebia           |
+|                                   |  TeSTeRs...: @barrebas            |
+|                                   |              Christopher Panayi   |
++-----------------------------------------------------------------------+
+|  VM HiSToRY:                                                          |
+|  v1.0 - Public release @ ZaCon VI "Capture the Flag (and in between)" |
+|  V0.1 - Private release @ SecTalks Perth                              |
++-----------------------------------------------------------------------+
+```
+### Download
+
+* [Download Link](https://www.vulnhub.com/entry/devrandom-sleepy,123/#download)
+* [Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rS3pDdW5OTXV2dU0)
+
+### Solution
+
+[Watch Solution](https://youtu.be/CN3dHC0giU8)
 
 ## K2
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/K2_2006b.jpg/1200px-K2_2006b.jpg" width="200" height="150">
 
-TO DO
+```
+ ____  __.________
+|    |/ _|\_____  \
+|      <   /  ____/
+|    |  \ /       \
+|____|__ \\_______ \ ·VM·
+        \/        \/
+
++----------------------------------------------------------------------------+
+|  cReaTeD....: sagi- (@s4gi_)      |  DaTe......: 2017-07-26                |
+|  oS.........: Linux               |  oBJecTiVe.: Get /root/flag.txt        |
+|                                   |  TeSTeR....: @leonjza                  |
++----------------------------------------------------------------------------+
+|  VM DesCriPtiOn:                                                           |
+|  This challenge was built to promote the Windows / Linux Local Privilege   |
+|  Escalation workshop. A free of charge 3-day workshop that was created as  |
+|  a give back to the community initiative.                                  |
+|                                                                            |
+|  <3 sagi-                                                                  |
++----------------------------------------------------------------------------+
+| SSH AccEsS DeTaiLs:                                                        |
+| Username: user                                                             |
+| Password: password                                                         |
++----------------------------------------------------------------------------+
+```
+### Download
+
+* [Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rUkh2WHNJczFiOVE)
+
+### Solution
+
+[Watch Solution](https://youtu.be/9B1C_xi_yic)
