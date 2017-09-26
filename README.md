@@ -29,9 +29,10 @@ Challenges that I authored/co-authored over the years for education and training
 ```
 ### Download
 
-[Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rQ1ZDX0tOLU1qZUU_)
-(**NOTE:** 
- Creation of the VM requires [VulnInjector](https://github.com/sagishahar/VulnInjector).)
+**NOTE:** 
+ Creation of the VM requires [VulnInjector](https://github.com/sagishahar/VulnInjector).
+* [Download Link](https://www.vulnhub.com/entry/devrandom-scream,47/#download)
+* [Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rQ1ZDX0tOLU1qZUU_)
 
 ### Solution
 
@@ -62,7 +63,8 @@ Challenges that I authored/co-authored over the years for education and training
 ```
 ### Download
 
-[Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rdHV1U2h6a1hwdjg)
+* [Download Link](https://www.vulnhub.com/entry/devrandom-relativity-v101,55/#download)
+* [Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rdHV1U2h6a1hwdjg)
 
 ### Solution
 
@@ -70,7 +72,80 @@ Challenges that I authored/co-authored over the years for education and training
 
 ## Persistence
 
-TO DO
+<img align="left" src="https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg" width="180" height="230">
+
+```
+██████╗█████████████╗███████ ██ █████████████████████████╗   ██╗█████████████╗
+██╔══████╔════██╔══████╔════    ██╔════╚══██╔══██╔════████╗  ████╔════██╔════╝
+██████╔█████╗ ██████╔███████ ██ ███████╗  ██║  █████╗ ██╔██╗ ████║    █████╗  
+██╔═══╝██╔══╝ ██╔══██╚════██ ██ ╚════██║  ██║  ██╔══╝ ██║╚██╗████║    ██╔══╝  
+██║    █████████║  █████████ ██ ███████║  ██║  █████████║ ╚████╚█████████████╗
+╚═╝    ╚══════╚═╝  ╚═╚══════ ╚═ ╚══════╝  ╚═╝  ╚══════╚═╝  ╚═══╝╚═════╚══════╝
+
+   "the fact of continuing in an opinion or course of action in spite of 
+    difficulty or opposition"
+
+                                                by sagi- & superkojiman
+
+
+DISCLAIMER
+----------
+By using this virtual machine, you agree that in no event will we be liable 
+for any loss or damage including without limitation, indirect or 
+consequential loss or damage, or any loss or damage whatsoever arising 
+from loss of data or profits arising out of or in connection with the use
+of this software.
+
+TL;DR - You are about to load up a virtual machine with vulnerabilities 
+created by hackers. If something bad happens, it's not our fault.
+
+
+ABOUT
+-----
+Persistence aims to provide you with challenging obstacles that block your
+path to victory. It is perhaps best described by quotes made by some famous
+people: 
+
+"A little more persistence, a little more effort, and what seemed 
+hopeless failure may turn to glorious success." - Calvin Coolidge
+
+"Energy and persistence conquer all things." - Benjamin Franklin
+
+"Persistence and resilience only come from having been given the chance
+to work though difficult problems." - Gever Tulley
+
+
+GOAL
+----
+Get a root shell and read the contents of /root/flag.txt to complete 
+the challenge!
+
+
+SETUP
+-----
+The virtual machine will get an IP address via DHCP, and it has been 
+tested on the following hypervisors:
+
+VMware Fusion 6
+VMware Player 6
+VMware Workstation 10
+VirtualBox 4.3
+
+
+SHOUT OUTS
+----------
+Thanks @VulnHub for kindly hosting this challenge, and thanks to 
+@recrudesce for testing it and providing valuable feedback
+
+```
+### Download
+
+* [Download Link](https://www.vulnhub.com/entry/persistence-1,103/#download)
+* [Download Link](https://drive.google.com/open?id=0B6EDpYQYL72rRGRkaElGeUtaTk0)
+
+### Solution
+
+[Watch Solution](https://youtu.be/p5VKnzFum9s)
 
 ## Pipe
 
